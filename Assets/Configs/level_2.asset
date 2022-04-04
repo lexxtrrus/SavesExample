@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 379c7b977d3647e88f4916051379ac7d, type: 3}
+  m_Name: level_2
+  m_EditorClassIdentifier: 
+  startPosition: {x: -4, y: 0.5, z: 0}
+  index: 1
+  levelBasePrefab: {fileID: 6980346152106766720, guid: 46802079470cea44599f8b849ebea975, type: 3}
+  levelObstacles: {fileID: 5584065537739450970, guid: d1d79c3c8ed15ac4f8e894043ce445c2, type: 3}
+  levelCollectables: {fileID: 4637469265892835014, guid: 420c4c1eccb08c74e8bbb7d5de02ccec, type: 3}
